@@ -242,7 +242,7 @@ The invocation paths will only include functions that Kojak has instrumented.  T
 why a function is called too much.
 
 <br>
-<b>If you start using Kojak I'd highly recomend you review this slide show.</b>
+<b>If you start using Kojak I'd highly recommend you review this slide show.</b>
 <a href="http://www.slideshare.net/BartWood/kojak-pics">Kojak Metrics Explained</a>
 
 
@@ -291,7 +291,7 @@ This does not track network requests made in a Web Worker right now.
 kConfig (configuration)<hr>
 ````
 // Sets whether the net watcher is enabled.  If you set it to true you need to have jQuery loaded.
-// If net watcher is enabled it starts running as soon as the Kojak libary is loaded.
+// If net watcher is enabled it starts running as soon as the Kojak library is loaded.
 kConfig.setEnableNetWatcher(enabled);
 
 // Sets if/how Kojak is supposed to automatically start code instumentation
